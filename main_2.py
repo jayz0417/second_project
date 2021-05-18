@@ -1,2 +1,2 @@
-print("main 2")
+print("user 2")
 
